@@ -2,3 +2,8 @@ venv/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+# Ignore IDE config folder
+.idea/
+
+# Ignore Python virtual environment
+venv/
