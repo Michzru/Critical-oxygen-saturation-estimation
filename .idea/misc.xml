@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="/usr/bin/python3.8" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="3.13 WSL (Ubuntu-20.04): (/home/istvan/.virtualenvs/Critical-oxygen-saturation-estimation/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (Critical-oxygen-saturation-estimation)" project-jdk-type="Python SDK" />
 </project>
